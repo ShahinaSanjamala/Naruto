@@ -8,5 +8,6 @@ public class JenckinsPracticeTest {
 	public void jenckinsPracticeTest() {
 		Reporter.log("orinii....",true);
 		Reporter.log("hohoo",true);
+		Reporter.log("jerk",true);
 	}
 }
