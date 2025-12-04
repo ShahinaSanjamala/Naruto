@@ -7,5 +7,6 @@ public class JenckinsPracticeTest {
 	@Test
 	public void jenckinsPracticeTest() {
 		Reporter.log("orinii....",true);
+		Reporter.log("hohoo",true);
 	}
 }
